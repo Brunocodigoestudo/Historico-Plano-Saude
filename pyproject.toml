@@ -8,7 +8,16 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "3.12.1"
+pandas = "^2.2.3"
+timedelta = "^2020.12.3"
+google-cloud = "^0.34.0"
+sqlalchemy = "^2.0.36"
+google-cloud-bigquery = "^3.26.0"
+pandas-gbq = "^0.24.0"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
