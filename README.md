@@ -38,8 +38,7 @@ Você pode acessar o dashboard do Looker Studio através do link:
 ### Diagrama do Processo ETL
 O diagrama a seguir ilustra o fluxo do processo, desde a extração dos dados até a visualização no Looker Studio:
 
-
-![Diagrama do Processo ETL](C:\Users\Bruno\Desktop\projetos_engenharia\Histórico de Planos de Saúde\processo.png)
+![Diagrama do Processo ETL](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/imagens/processo.png)
 
 
 ### Considerações Finais
