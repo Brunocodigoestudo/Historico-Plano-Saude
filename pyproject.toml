@@ -14,6 +14,7 @@ google-cloud = "^0.34.0"
 sqlalchemy = "^2.0.36"
 google-cloud-bigquery = "^3.26.0"
 pandas-gbq = "^0.24.0"
+python-dotenv = "^1.0.1"
 
 
 [tool.poetry.group.dev.dependencies]
