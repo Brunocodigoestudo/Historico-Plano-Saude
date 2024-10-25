@@ -3,6 +3,10 @@
 ### Objetivo
 O objetivo deste documento é detalhar o processo de extração, transformação e carga de dados (ETL) que utiliza o Google BigQuery para armazenar os dados nas camadas bronze e ouro. Além disso, os dados transformados são visualizados através de dashboards no Looker Studio.
 
+### Fonte de Dados
+Os dados utilizados neste projeto são provenientes do seguinte conjunto:
+- [Histórico de Planos de Saúde](https://dados.gov.br/dados/conjuntos-dados/historico-de-planos-de-saude)
+
 ### Descrição do Processo
 
 #### 1. Extrair Dados do CSV
@@ -34,7 +38,7 @@ Você pode acessar o dashboard do Looker Studio através do link:
 ### Diagrama do Processo ETL
 O diagrama a seguir ilustra o fluxo do processo, desde a extração dos dados até a visualização no Looker Studio:
 
-![Diagrama do Processo ETL](file-t4gTzMcgjs4J4ikLZBXTGsXX)
+![Diagrama do Processo ETL](C:\Users\Bruno\Desktop\projetos_engenharia\Histórico de Planos de Saúde\processo.png)
 
 ### Considerações Finais
 Esse processo garante uma abordagem eficiente e escalável para a manipulação de dados em ambientes de Big Data. A visualização final no Looker Studio permite que as equipes de Business Intelligence e gestão tenham acesso a dashboards dinâmicos e atualizados.
