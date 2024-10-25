@@ -41,8 +41,6 @@ O diagrama a seguir ilustra o fluxo do processo, desde a extração dos dados at
 
 ![Diagrama do Processo ETL](C:\Users\Bruno\Desktop\projetos_engenharia\Histórico de Planos de Saúde\processo.png)
 
-![Diagrama do Processo ETL](https://github.com/user-attachments/assets/8fee71d0-e5f9-4a26-9e70-34aa6d5cf71c)
-
 
 ### Considerações Finais
 Esse processo garante uma abordagem eficiente e escalável para a manipulação de dados em ambientes de Big Data. A visualização final no Looker Studio permite que as equipes de Business Intelligence e gestão tenham acesso a dashboards dinâmicos e atualizados.
