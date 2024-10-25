@@ -34,7 +34,7 @@ Você pode acessar o dashboard do Looker Studio através do link:
 ### Diagrama do Processo ETL
 O diagrama a seguir ilustra o fluxo do processo, desde a extração dos dados até a visualização no Looker Studio:
 
-![Diagrama do Processo ETL](file-t4gTzMcgjs4J4ikLZBXTGsXX)
+![Diagrama do Processo ETL](https://github.com/user-attachments/assets/8fee71d0-e5f9-4a26-9e70-34aa6d5cf71c)
 
 ### Considerações Finais
 Esse processo garante uma abordagem eficiente e escalável para a manipulação de dados em ambientes de Big Data. A visualização final no Looker Studio permite que as equipes de Business Intelligence e gestão tenham acesso a dashboards dinâmicos e atualizados.
